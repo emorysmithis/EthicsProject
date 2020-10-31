@@ -18,10 +18,15 @@
             <span style="color: red;">[{{ error }}]</span>
             {% endfor %}
         </p>
+				{% for post in posts %} 
+					<div><p>{{ post.choice.choice }} is: <b>{{ post.body }}</b></p></div>
+				{% endfor %} 
+
         <p>{{ form.remember_me() }} {{ form.remember_me.label }}</p>
         <p>{{ form.choice_A() }} {{ form.choice_A.label }}</p>
         <p>{{ form.choice_B() }} {{ form.choice_B.label }}</p>
         <p>{{ form.submit() }}</p>
+				
     </form>
 {% endblock %}
 
