@@ -7,11 +7,13 @@
         {% endif %}
     </head>
     <body>
+			<!-- 
     	<div>
         Microblog:
 				<a href="/index">Home</a>
 				<a href="/login">Login</a>
     	</div>
+			-->
        <hr>
         {% with messages = get_flashed_messages() %}
         {% if messages %}
@@ -23,5 +25,6 @@
         {% endif %}
         {% endwith %}
         {% block content %}{% endblock %}
+				<!-- This is an html comment --> 
     </body>
 </html>

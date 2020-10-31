@@ -15,14 +15,12 @@ def login():
             'body': 'This is choice B!'
         }
     ]
-
-
-
     form = LoginForm()
     if form.validate_on_submit():
-        flash('Login requested for user {}, remember_me={}, choice_A={}, choice_B={}'.format(
-            form.username.data, form.remember_me.data, form.choice_A.data, form.choice_B.data))
-        print("Pressed submit")
-        return redirect('/index')
-    return render_template('login.html', title='Sign In', form=form, posts=posts) 
+        flash("You pressed submit")
+        if form.choice_A.data: 
+            flash('You selected Choice A')  
+        else: 
+            flash('You seected Choice B') 
+    return render_template('login.html', title='Amagon', form=form, posts=posts) 
 
