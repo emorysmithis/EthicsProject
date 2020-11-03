@@ -1,0 +1,18 @@
+{
+    "content": [
+        {
+            "topic": "Misleading Ads",
+            "scenario": "Today, you're excited because there is a pitch meeting. During a pitch meeting, the best of the best of your marketing team pitches new ways to make money! Ope! The meeting is about to start! First up is Alex. Alex has a great idea: advertise products inside of baby registry lists. Right now, Amazon advertises whenever you search in a main page, but they do not advertise inside of wish lists or baby registries. Alex says that adding advertisements to these lists will increase Amagon’s profits by 2%! He shows you some of the advertisements he is thinking about adding to the lists. They look very nice. They seamlessly blend into the content of the baby registry. What do you think? Is this the next big thing in Amagon’s advertising?",
+            "choices": [
+                "Tell Alex this is a great idea! Why have we never thought of this before?! Moms are very reliable purchasers, especially of baby products, and people are always wanting to buy things for babies and new moms. Send it, Alex!",
+                "Hmmm...this makes great business sense, but will people like having ads in their baby registries? Probably not, but people don’t like ads anyway. The ads look great, but people might think they are part of the actually requested items. People really don’t like to be misled. Tell Alex this is a great idea, but the ads need to make clear that they are ads and not products actually requested by the new mom.",
+                "No, this is a terrible idea. Amagon would like to get rid of ads completely and move towards a subscription based service. Putting ads in the baby registries would be a backwards step. Tell Alex that this does not line up with Amagon’s business strategy. In fact, maybe Alex should take a break from the pitch meetings."
+            ],
+            "consequences": [
+                "Oh no! There’s a backlash. Because the ads look just like the content requested by new moms, people were misled into buying products the mothers did not request. You did make some profit, but at the expense of angering some consumers. This decision was the egoist action because you were only thinking of your company and not your consumers.",
+                "The advertisements are a success! While changing the ads decreased the profits to 1%, that is better than angering consumers and losing their purchasing power. This was the utilitarian action because you helped your company and did not hurt the consumers. In fact, showing them advertisements that were clearly labeled as advertisements may have helped some consumers remember things that they did need!",
+                "Kicking Alex out of future pitch meetings resulted in him quitting. Now you’ve lost one of your most creative marketers. Next time, be a little more careful!"
+            ]
+        }       
+    ]
+}
