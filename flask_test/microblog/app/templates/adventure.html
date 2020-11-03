@@ -5,28 +5,20 @@
     <form action="" method="post" novalidate>
         {{ form.hidden_tag() }}
 				{% if title == 'A' %} 
-				<div><p>{{ content["content"][0]["consequences"][0] }}</p></div>
+				<div><p>{{ content["content"][i]["consequences"][0] }}</p></div>
 				<p>{{ form.nextq() }}</p>
-				{% endif %} 
+				{% endif %}
+
+
 				{% if title == 'B' %} 
-				<div><p>{{ posts[1].consequence }}</p></div>
+				<div><p>{{ content["content"][i]["consequences"][1] }}</p></div>
 				<p>{{ form.nextq() }}</p>
 				{% endif %} 
 
 				{% if title == 'Amagon' %}
-				<div><p>{{ content["content"][0]["scenario"] }}</p></div>
-				<!-- 
-					{% for post in posts %} 
-							<div><p>{{ post.choice.choice }} : <b>{{ post.body }}</b></p></div>
-					{% endfor %}
-				-->
-				{% for choice in content["content"][0]["choices"] %}
-					<div><p>{{ choice }}</p></div>
-				{% endfor %}
-        	<p>{{ form.choice_A() }} {{ form.choice_A.label }}</p>
-					<div><p>{{ posts[0].choice.choice}} :<b>{{ posts[0].body }}</b></p></div>
-        	<p>{{ form.choice_B() }} {{ form.choice_B.label }}</p>
-					<div><p>{{ posts[1].choice.choice}} :<b>{{ posts[1].body }}</b></p></div>
+				<div><p>{{ content["content"][i]["scenario"] }}</p></div>
+        	<p>{{ form.choice_A() }} <b>{{ content["content"][i]["choices"][0] }}</b></p>
+        	<p>{{ form.choice_B() }} <b>{{ content["content"][i]["choices"][1] }}</b></p>
 					<p>{{ form.submit() }}</p>	
 				{% endif %} 
     </form>
