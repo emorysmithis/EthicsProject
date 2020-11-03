@@ -5,7 +5,7 @@
     <form action="" method="post" novalidate>
         {{ form.hidden_tag() }}
 				{% if title == 'A' %} 
-				<div><p>{{ posts[0].consequence }}</p></div>
+				<div><p>{{ content["content"][0]["consequences"][0] }}</p></div>
 				<p>{{ form.nextq() }}</p>
 				{% endif %} 
 				{% if title == 'B' %} 
@@ -13,7 +13,8 @@
 				<p>{{ form.nextq() }}</p>
 				{% endif %} 
 
-				{% if title == 'Amagon' %} 
+				{% if title == 'Amagon' %}
+				<div><p>{{ content["content"][0]["scenario"] }}</p></div>
 				<!-- 
 					{% for post in posts %} 
 							<div><p>{{ post.choice.choice }} : <b>{{ post.body }}</b></p></div>
