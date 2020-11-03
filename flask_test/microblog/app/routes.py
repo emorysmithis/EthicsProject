@@ -8,7 +8,7 @@ import json
 def home():
     return render_template('index.html')
 
-@app.route('/login', methods=['GET', 'POST'])
+@app.route('/adventure', methods=['GET', 'POST'])
 def login():
     with open("content.json") as file:
         content = json.load(file)
@@ -30,14 +30,14 @@ def login():
         flash("You pressed submit")
         if form.choice_A.data: 
             flash('You selected Choice A')  
-            return render_template('login.html', title='A', form=form, posts=posts, content=content)
+            return render_template('adventure.html', title='A', form=form, posts=posts, content=content)
             print('After showing A page') 
         elif form.choice_B.data: 
             flash('You selected Choice B') 
-            return render_template('login.html', title='B', form=form, posts=posts, content=content)   
+            return render_template('adventure.html', title='B', form=form, posts=posts, content=content)   
             print('After showing B page')
         else: 
-            return render_template('login.html', title='Amagon', form=form, posts=posts, content=content) 
+            return render_template('adventure.html', title='Amagon', form=form, posts=posts, content=content) 
     else: 
-        return render_template('login.html', title='Amagon', form=form, posts=posts, content=content) 
+        return render_template('adventure.html', title='Amagon', form=form, posts=posts, content=content) 
 
