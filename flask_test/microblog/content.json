@@ -13,6 +13,18 @@
                 "The advertisements are a success! While changing the ads decreased the profits to 1%, that is better than angering consumers and losing their purchasing power. This was the utilitarian action because you helped your company and did not hurt the consumers. In fact, showing them advertisements that were clearly labeled as advertisements may have helped some consumers remember things that they did need!",
                 "Kicking Alex out of future pitch meetings resulted in him quitting. Now you’ve lost one of your most creative marketers. Next time, be a little more careful!"
             ]
-        }       
+        },
+        {
+            "topic": "Treatment of Workers",
+            "scenario": "You realize that most of your developers in your company are working 50hrs/wk and as a result you're able to push out new features and fix bugs super quickly. Every week your company is able to push out new features thanks to the hard work of your employees and is also able to analyze how well these features are doing thanks to your fantastically overworked data analysts. Customers are loving how communicative your company is to their feedback, but your employees are burning out. You decide that you need to do something about this problem. Here are your two choices:",
+            "choices": [
+                "Keep the same number of work hours, however, you raise everyone's pay by a little bit. You also provide better quality coffee or energy drinks or tea alternatives.",
+                "Reduce the number of hours. Your company does not push out new features and bug fixes as quickly as before and as a result you lose some of your customer base."
+            ],
+            "consequences": [
+                "This will result in a 2% reduction in your regular profits. (egoist)",
+                "This results in a 3% reduction in your regular profits. However, your employees are grateful for the friendly work environment and your company begins to attract more talented developers. (utilitarian)"
+            ]
+        }
     ]
 }
