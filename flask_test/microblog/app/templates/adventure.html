@@ -18,8 +18,11 @@
 				<!-- 
 					{% for post in posts %} 
 							<div><p>{{ post.choice.choice }} : <b>{{ post.body }}</b></p></div>
-					{% endfor %} 
+					{% endfor %}
 				-->
+				{% for choice in content["content"][0]["choices"] %}
+					<div><p>{{ choice }}</p></div>
+				{% endfor %}
         	<p>{{ form.choice_A() }} {{ form.choice_A.label }}</p>
 					<div><p>{{ posts[0].choice.choice}} :<b>{{ posts[0].body }}</b></p></div>
         	<p>{{ form.choice_B() }} {{ form.choice_B.label }}</p>
