@@ -22,6 +22,8 @@ def login():
     print("Number of Scenarios: {}".format(numScenarios))
     if form.validate_on_submit(): 
         flash("You pressed submit")
+        if i==numScenarios: 
+            return render_template('end.html', title='Amagon End', form=form, content=content, i=i) 
         if form.choice_A.data: 
             print("on scenario {}".format(i)) 
             flash('You selected Choice A')  
