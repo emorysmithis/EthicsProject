@@ -1,5 +1,5 @@
 # EthicsProject
-## Group Members: Emory Smith, Carlos Murillo, Yeon Kim
+### Group Members: Emory Smith, Carlos Murillo, Yeon Kim
 This repository is for a choose-your-own adventure game called "Amagon." 
 The goal of this game is to teach you the difference between utilitarianism and egoism in a fun and interactive way. 
 Follow the instructions to setup the game. 
