@@ -106,6 +106,32 @@
                 "The investigator finds that the accusations are true, but they were not intentional. You correct the and issue a consumer-wide apology. This was the utilitarian action because you spent money to investigate something that was potentially impacting a lot of people."
             ]
         },
+         {
+            "topic": "Anti-Competitive",
+            "company-size": "large",
+            "scenario": "Your company is growing bigger and bigger. You have hundreds of millions of users and you can pretty much shop for anything on Amagon. Your company now has the resources to make its own products and you decide to start producing very commonly sold items such as branded charging cables. You already know that there are millions of charging cables being sold but most of them are through a smaller manufacturing company called CableWorld that operates through your portal. You have full access to CableWorld's market data (profits made through your portal, item prices, customer service policies, etc.), and you believe this data would be immensely helpful to promoting Amagon's new charging cables. As the CEO, do you take advantage of this information?",
+            "choices": [
+                "Yes, the best method would be to set the price of your new charging cables at 85% of CableWorld's cables. This way customers will be more attracted to your products over CableWorld's. This would raise credibility of Amagon products but not be very profitable. In fact, you'll actually be losing money by selling your own charging cables, but eventually you'll steal all of CableWorld's customers and once that company goes out of business, you can bump the prices back up again.",
+                "No, there is no need to use that information. You can keep the price the same and it will still be beneficial to the company and the economy since the company will be making more profit and at the same time it would promote competitiveness in the market."
+            ],
+            "consequences": [
+                "This is the egoist choice because you are acting in a manner which will only benefit you. When looking at the consequences of your action, the only ones that matter to you are the ones that will affect you, especially when it is in a positive manner.",
+                "This is the utilitarian choice because even though you are going to be introducing a new product which will directly compete with this company, you are considering the consequences of your actions in a holistic way and realize that not using their data will lead to creating more good in total compared to using their data, lowering the price, and making them go bankrupt as a result."
+            ]
+        },
+        {
+            "topic": "Anti-Competitive",
+            "company-size": "large",
+            "scenario": "You are in the ecommerce business but also create your own products and sell them through your own site. Since you are in ecommerce, you are currently selling your competitors products as well. However, you have been noticing that their products are beginning to sell more through your own platform. This is beginning to worry you because you’re helping your own competition to sell more than you. One of the members of your advisory board suggests to stop selling their products. After all, it is your ecommerce website. You don’t HAVE to sell their products on it.",
+            "choices": [
+                "Stop selling their products.",
+                "Continue to sell their products on your website."
+            ],
+            "consequences": [
+                "This is an egoist choice. You made this choice because the consequences of the action will be positive for you but didn’t consider how it would impact other people. This choice leads to immediate back fire in the press. As a result your competitors began to stop giving access to their websites and services for all of your products. Their services are some of the most important for your customers and your customers begin to complain and stop buying your products. Your sales plummet and you need to figure out a way to make this money back. You have to let the competitors sell their products again. You reach out to them and they agree to allow access for your customers as well. Ultimately your business achieved nothing but your stock price dropped by 10% due to the lose in new sales.",
+                "This choice leads to you eventually losing some market share. However, your market share, at least through your own website, is never actually exceeded by your competitor. There are many other ways that they can buy the product after all so banning the product wasn’t going to be much help. However, you are praised for not being anti-competitive. This choice was the utilitarian choice because you considered the consequences on others not just yourself and this created the most positive outcome for everyone."
+            ]
+        },
         {
             "topic": "Anti-Competitive",
             "company-size": "large",
