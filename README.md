@@ -7,10 +7,10 @@ Follow the instructions to setup the game.
 ## Setup
 - Open a terminal 
 - Clone this repository 
-- Install requirements with `pip install -r requirements.txt`
-- Activate virtual environment? 
+- Activate virtual environment 
 	- `source venv/bin/activate`
--  Navigate to the flask/microblog folder and run `flask run`
+- Install requirements with `pip install -r requirements.txt` 
+- Navigate to the flask/microblog folder and run `flask run`
 - In a web browser, navigate to "http://localhost:5000/" 
 -  Begin the game!
 
