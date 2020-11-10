@@ -14,7 +14,7 @@ Follow the instructions to setup the game.
 - In a web browser, navigate to "http://localhost:5000/" 
 -  Begin the game!
 
-# We utilitzed these resources: 
+### We utilitzed these resources: 
 - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 -  https://en.wikipedia.org/wiki/Criticism_of_Amazon
 
