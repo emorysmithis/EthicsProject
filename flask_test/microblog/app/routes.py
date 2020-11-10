@@ -18,7 +18,7 @@ def login():
     #print(content)
 
     form = LoginForm()
-    numScenarios = len(content)
+    numScenarios = len(content["content"])
     print("Number of Scenarios: {}".format(numScenarios))
     if form.validate_on_submit(): 
         flash("You pressed submit")
