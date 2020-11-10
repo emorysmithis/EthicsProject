@@ -20,7 +20,10 @@ def login():
     numScenarios = len(content["content"])-1
     if form.validate_on_submit(): 
         if i==numScenarios: 
-            return render_template('end.html', title='Amagon End', form=form, content=content, i=i) 
+            return render_template('end.html', title='Amagon End', form=form, content=content, i=i)
+        if form.choice_A.data and form.choice_B.data: 
+            flash("Please pick one answer only!!")
+            return render_template('adventure.html', title='Amagon', form=form, content=content, i=i)
         if form.choice_A.data: 
             return render_template('adventure.html', title='A', form=form, content=content, i=i)
         elif form.choice_B.data: 
