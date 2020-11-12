@@ -6,16 +6,21 @@ Follow the instructions to setup the game.
 
 ## Setup
 - Open a terminal 
-- Clone this repository 
-- Activate virtual environment 
-	- `source flask/microblog/venv/bin/activate`
+- Clone this repository
+- Go into the directory
+- Create a virtual environment
+	- `python3 -m venv venv`
+- Activate virtual environment
+	- `source /venv/bin/activate`
 - Install requirements
-	- `pip install -r requirements.txt` 
-- Navigate to the flask/microblog folder and run `flask run`
+	- `pip install -r requirements.txt`
+- Navigate to the flask/microblog folder and run flask
 	- `cd flask/microblog`
 	- `flask run`
 - In a web browser, navigate to "http://localhost:5000/" 
--  Begin the game!
+- Begin the game!
+- After you're done, you can deactivate the virtual environment
+	- `deactivate`
 
 ### We utilitzed these resources: 
 - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
