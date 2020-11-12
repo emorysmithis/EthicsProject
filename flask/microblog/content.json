@@ -157,6 +157,71 @@
                 "This is the utilitarian action because taking down the content immediately is best for the entire population of consumers. Reducing antisemitic content reduces the number of people that can be radicalized. Unfortunately, it does cost you some money, but that is outweighed by the good of taking down all the content and products. After this incident, other groups are inquiring if Amagon can take down other objectionable content. Now, you must decide whether to keep these employees so they can work on taking down racist, sexist, and other discriminatory products and content.",
                 "This is the egoist action because it does require you to spend more money and it satisfies what the consumers were asking for. Because the media reported about this incident, many consumers have started reporting more and more content. Your reporting services are overwhelmed and the backlog is getting quite long."
             ]
+        },
+        {
+            "topic": "Treatment of Workers",
+            "company-size": "large",
+            "scenario": "The company now has hundreds of millions of customers to serve and it needs to upsize their delivery facilities so that it can promptly serve every one of their customers. It is becoming increasingly difficult to make sure that every customer receives their orders correctly and on time. With your platform having reached a global scale, you have people from around the world complaining about packages delivered late, defective packages, and workers not treating packages with care. There have been home security camera footage depicting a delivery man simply tossing a package from the front lawn to the doorsteps of one house. You realize that you have to optimize and ensure quality service within the delivery department.",
+            "choices": [
+                "Start hiring more and more people. It doesn't cost too much to hire new employees anyways, especially now that your company is international. Since there are always people willing to work, threaten your workers to handle customers' packages with care or be fired. If this is not enough to ensure faster delivery dates, you can start overworking your employees with a higher pay.",
+                "Start putting more and more money into researching and developing drones and electric vehicle technology. With more modes of transportation customers can start expecting shorter delivery times. This will require hiring of new researchers and this would definitely take a much longer time to be fully in fruition, but once established, your company would have set the standard for delivering packages."
+            ],
+            "consequences": [
+                "The company receives great press for providing more jobs and opportunities for the public. This is a utilitarian decision since society as a whole has benefited: more people got goods more quickly, and more people have jobs now.",
+                "Your customers are still not very satisfied with the delivery service since you cannot have your employees immediately operate drones and electric vehicles. They are still waiting on improvements, however, Amagon is now very attractive to new engineers interested in developing new technology. The technology will not only benefit Amagon, but it will revolutionize other delivery services some day. This is a utilitarian decision because it will benefit society as a whole."
+            ]
+        },
+        {
+            "topic": "Toxic Work Environment",
+            "company-size": "large",
+            "scenario": "More and more, it seems inevitable during these times that your company, especially in the higher levels, is mostly full of men. You never really interfered with how the company's culture developed--your main value that you always emphasized is to put customers first, before everything else. Unfortunately, as a result of being unchecked, the company grew to have a hostile working environment for people of minority, especially towards women and those representing LGBTQ+. Recently, there was a big scandal that went public, involving several of the higher executives and countless anecdotes of unwanted approaches. You have just heard about this news when it went public and now have to deal with these problems as well as saving the company from international shame.",
+            "choices": [
+                "You want the news to die down. The company is planning on releasing new products in the next couple weeks and this bad press cannot be good for the launch. You decide to pay off some people in the news networks, but you also offer large sums of money and apologies from the executives to the victims of harassment. You will also leave a stern memo to the executives involved and make sure they understand not to do such things again.",
+                "You decide to do something to change the atmosphere of the company. You announce to the news that Amagon will be actively hiring more women executives and start establishing inclusion workshops to make the company feel more safe. You also establish a forum where anybody can anonymously report an incident that they find is concerning.",
+            ],
+            "consequences": [
+                "Your new product launch does really well! The general public has forgotten what has happened within the company, and most of the victims are satisfied with their financial compensation. You feel great that your memo seems to have worked since you haven't really heard of any new incidents in three months. This is an Egoist decision because you only really cared about the face of the company and everyone else on a superficial level.",
+                "The productivity level in your company has severely dropped due to most of the employees doing programs within the workshop and trying to get used to the new environment and atmosphere. You're not sure how effective the new measures are, but at least the public is proud and happy that you have put forth these new measures within Amagon. This is a Utilitarian decision because the main thing you were concerned about was the employees in the company, not just the results of the company and its profit margins."
+            ]
+        },
+        {
+            "topic": "Sustainability",
+            "company-size": "large",
+            "scenario": "Because the company is serving millions of customers, the amount of plastic waste and styrofoam packing peanuts generated from packaging goods is amounting to tons. No one outside the company has noticed this yet and you were just notified of this fact through a recent sustainability report since your company just loves to horde all different kinds of data. Some of your employees who worked on to produce the report express their concerns for the growing waste due to the various delivery services.",
+            "choices": [
+                "You decide that polluting the environment is absolutely unacceptable and immediately ask for new projects to reduce waste generated by the company services.",
+                "This news is far from hitting the media yet so you let this problem sit. The money and resources that would be used to reduce waste can be allocated to more pressing matters at hand like improving its web services so that it can compete with Doogle's web services."
+            ],
+            "consequences": [
+                "This is an utilitarian decision. Your efforts greatly helped the environment and the world thanks the company for making such a decision. Your company receives very good press and customers have increased their trust in the company.",
+                "This is an egoist decision. Just because people are not aware of the problem does not mean that it does not exist. A couple months later, the public eventually finds out that the company has known about the accumulating waste in the environment for a while and has not done anything about it yet. Some groups of people decide they will boycott and protest against the company."
+            ]
+        },
+        {
+            "topic": "Taxes",
+            "company-size": "small",
+            "scenario": "Because Amagon is such a small company, you have to wear many hats. Some days you have to refill the water coolers. Other days you are calling your partners. And still other days, you are doing what you are doing today - boring business stuff like taxes. Sadly, business taxes are a lot more complicated than individual taxes. You have to sift through laws and regulations to determine what is tax-deductible and what you can write-off. As you are reading through one of the laws, you notice a loophole that would allow you to save a small amount of money.",
+            "choices": [
+                "You decide to take the loophole and save the money. You reinvest the money into your growing company.",
+                "You decide to not take the loophole and pay the small amount of taxes that you could have saved."
+            ],
+            "consequences": [
+                "With the money you saved from the tax loophole, you decide to give your hardest working employees a raise. They deserve to be recognized for their great work. This was the utilitarian decision because you were thinking of maximizing good for a number of people.",
+                "By paying the taxes, you are ensuring that you are following the spirit of the law. No one in the future can say that you were trying to avoid paying taxes. You were looking out for future you. This was the egoist decision because you were thinking more about yourself than others."
+            ]
+        },
+        {
+            "topic": "Your Personal Wealth",
+            "company-size": "large",
+            "scenario": "Amagon has grown to be one of the largest and most profitable companies of all time. You are now the wealthiest person on the planet with a net worth of $200 billion dollars. This is equivalent to the GDP of Qatar. People have been asking for a long time about what you are going to do with that money.",
+            "choices": [
+                "Start giving away all of it to philanthropic organizations. Invest in climate change efforts, world hunger, world poverty, etc.",
+                "Invest this money in areas that are too expensive for governments to invest in like going to Mars and developing robots."
+            ],
+            "consequences": [
+                "Many charity organizations are very happy about your donations. The media does some positive stories about your philanthropy. This is the utilitarian action because you are helping produce good for many people.",
+                "Your investments in these areas help innovation immensely. In fact, a mission to Mars is going to launch tomorrow. The consequences of this decision are hard to measure, so this could be considered a utilitarian action or neither utilitarian or egoist."
+            ]
         }
     ]
 }
