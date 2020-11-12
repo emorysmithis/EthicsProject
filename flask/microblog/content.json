@@ -222,6 +222,110 @@
                 "Many charity organizations are very happy about your donations. The media does some positive stories about your philanthropy. This is the utilitarian action because you are helping produce good for many people.",
                 "Your investments in these areas help innovation immensely. In fact, a mission to Mars is going to launch tomorrow. The consequences of this decision are hard to measure, so this could be considered a utilitarian action or neither utilitarian or egoist."
             ]
+        },
+        {
+            "topic": "Headquarters Bidding",
+            "company-size": "large",
+            "scenario": "Amagon has grown into a huge company. It is now large enough that a second headquarters is needed. You have announced that you are accepting bids from different cities to determine where to build your second headquarters. This new headquarters will create thousands of jobs in whichever city you choose to build in. You have received bids from over 200 cities. Your experts have come up with a set of criteria to narrow down which city will be the new spot for your headquarters. Which criteria will you choose?",
+            "choices": [
+                "Choose the city that has the most lenient tax rules and most lenient environmental regulations.",
+                "Choose the city with the highest bid."
+            ],
+            "consequences": [
+                "Using this criteria to narrow down cities leaves you with cities that have a very hands-off approach. Some of the people that transfer to this new headquarters are not happy with this kind of government and choose to leave the company. This is an egoist choice because you were only thinking about what is best for your business and not what is best for everyone. If you were thinking about what was best for everyone, you would have considered that the large amount of taxes that Amagon pays could significantly help a community and that because of Amagon’s huge environmental impact, you want to reduce the negative effects as much as possible because everyone is affected by climate change.",
+                "Using this criteria to narrow down cities leaves you with cities with very high prices on everything. This means that you have to pay your employees in this new headquarters significantly more. This is an egoist action because you were only thinking about how the bid could help your company and not the larger society or greater number of people."
+            ]
+        },
+        {
+            "topic": "Environmental Impact",
+            "company-size": "large",
+            "scenario": "Today, the leader of your HR department informed you that a large group of your employees has organized an Amagon Employees for Climate Justice group. This group plans to walk out on their jobs tomorrow in protest of Amagon’s climate policies. They say that Amagon uses too many fossil fuels and funds lobbyists that spread climate denialism. They demand that Amagon reaches zero emissions in 10 years and redirects all of the funding that they were using to fund climate denialist lobbyists to fund climate change proposals. You know that cutting ties with fossil fuel would be bad for Amagon’s stocks and investors, however, you know that in the future, you will have to answer how fast Amagon made the switch to zero emissions. You have a couple choices.",
+            "choices": [
+                "Put out a statement ahead of the protests that you are very proud of this Amagon Employees for Climate Justice Group. In the statement, you say that you would love to work out a plan to meet their demands.",
+                "Fire all of the members of the Amagon Employees for Climate Justice Group. You are not ready to lose out on fossil fuel money just yet."
+            ],
+            "consequences": [
+                "The media applauds you for this brave action. You are invited to talk to many reporters. Now, that you have said this to the media, you must create a team to create a plan for Amagon’s future climate action. This is the utilitarian action because climate change affects many more people than the shareholders in your company.",
+                "The employees that you fire decide to sue you. You are forced into lawsuits that you do not want to be in. This is the egoist action because you were more concerned about what was going to happen to your business and money than you were about the billions of people who are affected by climate change."
+            ]
+        },
+        {
+            "topic": "Amagon Reviews",
+            "company-size": "large",
+            "scenario": "Amagon loves its customers, and Amagon wants to make sure that their customers get the best products at the best prices. This is why Amagon, like so many other sites that provide a service (like youtube and yelp) allow users to post reviews of the things that they buy. Reviews help consumers determine how clothing fits, how well products work, and if products last a long time (in addition to other useful information). Amagon sees reviews as customer service. Unfortunately, recently there have been many news stories concerning reviews that were not posted in good faith. These reviews include book reviews by the author that wrote the book or employees of a competitor company trashing their competitors product for no good reason. You have to decide how to handle this situation.",
+            "choices": [
+                "Discontinue reviews! This is a public relations nightmare! You are tired of the stories about corrupt Amagon reviews. Besides, this will save Amagon money because if there are no more reviews, you will not have to pay for people to develop that feature of your website.",
+                "While people will always find ways around the system and rules, you believe that Amagon can do more to encourage good reviews from reputable sources. You decide to create a team of people that will implement a system that will determine how trustworthy a review is based on natural language processing and previous activity of the user. This solution takes a while to implement."
+            ],
+            "consequences": [
+                "After discontinuing all reviews, customers find it more difficult to determine which products to buy. Though the PR nightmare about the corrupt reviews disappears, now there are stories about this bad decision by Amagon. This is the egoist action because you only thought about how your decision would impact your business and not about how it would affect your consumers (a larger number of people).",
+                "After your solution was revealed, your internal team has determined that there was a decrease of published corrupt reviews. They also saw that there were less attack-like reviews on your platform. This was the utilitarian decision because you thought about how your decision would impact everyone and decided that it would have a greater benefit on more people than the potential small benefit to your business."
+            ]
+        },
+        {
+            "topic": "Animal Cruelty",
+            "company-size": "medium",
+            "scenario": "Amagon began as a bookstore company and due to this you are well aware that there are many books,magazines, e-books etc. that you will most likely never know are being sold on Amagon. Just for fun some of your employees like to look at the newly listed items that appear on Amagon and see what is currently being utilized. One of them finds that there is a cockfighting magazine that has just been added as a product for Amagon. He flagged it to his superior, who in turn flagged it to his superior, and so on until it eventually made it to you in a board meeting. What should you do about this?",
+            "choices": [
+                "Keep the magazine. After all you didn’t put it on Amagon or make it. You just distribute it. Besides, you most likely wouldn’t have ever known it was there if iit wasn't for this employee randomly finding it. Don’t shoot the messenger am I right?",
+                "Take it down immediately. You realize that having it on your website is no doubt going to draw some negative attention if it gets out. Besides, it’s animal cruelty."
+            ],
+            "consequences": [
+                "This was the egoist choice. You thought the profit was better than the possibility of the negative results. The media got news that you were distributing this website and they did not take it well. Apparently they did shoot the messenger because you end up in court having a lawsuit filed against you. The negative media coverage, the cost of lawyers, and the need for you to take off time from work to deal with this mess ends up costing you a 10% drop in stock, which your board of directors is not happy about, and about 10 million dollars. That was definitely not worth it.",
+                "This is the utilitarian choice. By taking it down immediately you didn’t make some money but you helped to stop the spread of this website on a large platform. Because you didn;t let them do this they don’t increase their operations hurting more animals."
+            ]
+        },
+        {
+            "topic": "Influence Over Local News",
+            "company-size": "large",
+            "scenario": "There is an ongoing pandemic called Covid-20 (no relation to Covid-19) that is currently spreading through the nation. You have tried to implement measures to keep your workers safe during the pandemic, however, business is better than ever and you couldn’t shut everything down. People are depending on Amagon to deliver their products. You have done something and that’s what counts. You hear that some news channels are going to talk about Amagon’s performance with Covid-20 and the way that Amagon handled it. You’re not sure if they will be as lenient and understanding on your response as you have been and are curious what you could do to make sure they talk about things in a positive light. One of the executives mentions that you may be able to sent a package with a video that gives an insider look at the response. Of course, this will be recorded by one of the HR managers and will get some positive views on what is going on. This would make the news’ job easier as they all were going to have to conduct this research anyway. Should you go ahead with the plan?",
+            "choices": [
+                "Go ahead",
+                "Hope that they will air some positive news about you without sending this video to them."
+            ],
+            "consequences": [
+                "You send the package and everything is going well for you. It looks like all of the new stations that you reached out to are doing what you wanted. That is until the last one. This person talks about how they received the package and it was not received well. They think you are spreading false propaganda. Your shareholders are furious with you because people boycott Amagon and your sales decrease by 10%. This was the egoist choice because getting the truth out would have led to reforms and several employees begin to test positive, causing them to incur large health bills. This decision was great for you but not for anyone else.",
+                "You wait it out and it’s about 50/50 about how you have handled the situation. Ultimately it looks like some people think you’ve been doing well and others don’t. You didn’t lose anything but didn’t gain anything either. To address the negatives, you create some reforms and help save people from catching the virus."
+            ]
+        },
+        {
+            "topic": "Product Replacement",
+            "company-size": "large",
+            "scenario": "Since your company works with various suppliers, you are able to offer the same product at a much larger scale. If one of your suppliers runs out of supplies, you can easily replace it with another supplier. This is just like when companies order a lot of meat from different farms or similar formats like that. Something that is brought to your attention is that the products that you were selling as equal are actually quite different and come from different countries. This means that they are not evaluated under the same amount of rigorous testing. You realize that this is a problem but at the same time not many people are going to be able to tell. Should you look into separating the products out depending on where/by who they are being sold or leave it as is?",
+            "choices": [
+                "Leave it as is and don’t waste the time.",
+                "Make this into a large scale project."
+            ],
+            "consequences": [
+                "Since you leave it as is, there is an incident. It looks like the difference in safety and even features was quite large for the commodity products that you tried to sneak through as equals. You have to pay damages to the customers that ordered these products and invest the money in the large scale project. This was the egoist choice because you prioritized profits (a benefit to you) over being a good company and the benefits to everyone else. It was the biggest benefit to you.",
+                "You went ahead and invested the time into the project. You are glad you did because your competitor had a similar structure to you but didn’t end up changing his method of selling similar products. He has the scandal blow up and you start getting good media coverage as you are an example to follow. This is the utilitarian choice because you acted in a manner that created the most good in total (in this case for all your customers)."
+            ]
+        },
+        {
+            "topic": "Counterfeit Products",
+            "company-size": "large",
+            "scenario": "You sell a large amount of products and you don’t really verify that the products are actually what they say they are.. You start to think you should probably check that out. You are selling the products on your website through third party sellers but also assuming they are legitimate so selling them through your own warehouse as well. You’re pretty sure people wouldn't do that because well what's the benefit? Besides, it would cost you a lot of money to fix that! Regardless you feel like maybe you should go and check it out.",
+            "choices": [
+                "Assume that the sellers are true to their word and live life peacefully.",
+                "Go figure out if the pear products are actually coming from the pear company."
+            ],
+            "consequences": [
+                "Well. It looks like those products were definitely counterfeit. Your partner companies are angry with you and you manage to get off the hook since you were being deceived as well. They are angry that you didn’t check though, and the way they found out was by running their own tests. This was the egoist action since you only considered how it would affect you. For you, it brought in profit but others are upset that they were being deceived. The partner relationships with these companies are hurt due to your actions and your customers not too happy either.",
+                "Well. It looks like those products were definitely counterfeit. Once you figure this out you decide to crack down on it and inform the companies whose products were being counterfeited. They are certainly angry but not at you. Your partner relationships become stronger with these companies because you have shown them that you are on their side and prioritize the well being of commerce over your own motives. This is the utilitarian choice because you didn’t act with only your own interest in mind but saw what would create the most good for everyone and took that approach. The customers are happy you are not deceiving them and so are these companies that have worked so hard to protect their products."
+            ]
+        },
+        {
+            "topic": "Minimum Wage",
+            "company-size": "large",
+            "scenario": "Research shows that the average living expense from this decade is much higher than in previous decades yet the minimum wage has not grown with it. This technically means that people have to work much much more than before to have the same basic necessities. However, you are an old timer, so this seemed like not an issue to you. Regardless, you think that perhaps you may want to raise it. This would certainly make your employees happier and allow for them to work less, but your bottom line is going to take a huge hit.",
+            "choices": [
+                "Raise the minimum wage.",
+                "Keep it as is."
+            ],
+            "consequences": [
+                "This is the utilitarian choice. Paying your employees more would allow for them to have to work less and make them much happier from spending more time with family, being able to live more comfortably etc. This actually ends up making them more productive as well! Despite this not being a great option for you, It brings the most net happiness for the other stakeholders (in this case, your employees).",
+                "This is the egoist choice. Keeping the wage as it is brings you the most good because you don’t lose money. You are acting in a way that will benefit you the most but not considering how much good it would bring others."
+            ]
         }
     ]
 }
